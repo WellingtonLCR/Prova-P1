@@ -1,2 +1,3 @@
 Alterando o primeiro arquivo para commitar
-alterando novamente o primeiro commit
+alterando novamente o primeiro commit pela segunda vez
+alterando novamente o primeiro commit pela terceira vez
