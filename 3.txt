@@ -1,1 +1,2 @@
 Alterando o terceiro arquivo para commitar
+alterando novamente o terceiro commit
